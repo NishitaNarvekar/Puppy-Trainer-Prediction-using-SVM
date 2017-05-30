@@ -20,7 +20,7 @@ The main goal of this project is to predict the training outcome with some given
 
 3.c Build and train your model based on the data in 3.b. Explain how you make use of your extracted features to build your model. Do you see consistent prediction rate when the data is randomly split? How about when the data is not randomly split? Fill in each trial result and the average of trials in the table as shown follows.  (??%)
 
-~Bonus~
+-Bonus-
 B.1 If you blend both the trainer and puppy info used in 2.e in building/training a new model, is the prediction rate better or worse? Why?
 
 B.2 Do you see consistent prediction rate when the data is randomly split? How about when the data is not randomly split? Fill in each trial result and the average of trials in the table as shown follows.  (??%)
